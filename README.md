@@ -13,6 +13,14 @@ Make a PR to the Master branch with the following:
 
 ## Submissions
 
+### BetaStore
+- It is a marketplace where users can list their old items, and anyone can buy and resell them at a new price. After providing a review of a particular item, the user will receive an NFT as well."BetaStore" is a dynamic platform where users can effortlessly list and purchase rare, vintage, and unique items in the form of NFTs. Our user-friendly interface allows individuals to upload images of their cherished possessions, which are then transformed into verifiable NFTs. These NFTs are made available on our open marketplace, enabling users to engage in transparent and secure transactions, confident in the knowledge that the items they are acquiring are one-of-a-kind and authenticated through blockchain technology.
+- https://github.com/Vikash-8090-Yadav/BetaSTore
+- https://youtu.be/-2Wqw_Uj2Go
+- Live Link: In progress
+- @Vikash-8090-Yadav
+
+
 Example:
 
 ### Title of Project
