@@ -12,7 +12,13 @@ Make a PR to the Master branch with the following:
 
 
 ## Submissions
+ ### Savier
+ - It is a revolutionary platform that empowers individuals and businesses to turn their dreams into reality. Our crowdfunding application is designed to connect passionate creators with a supportive community of backers, fostering innovation, creativity, and positive impact.
 
+- https://github.com/Omega12Pirme/Savierr
+- https://youtu.be/jT6aU4mukZM?si=fg4WLgobfq6U1MZh
+- @omega
+  
 Example:
 
 ### Title of Project
