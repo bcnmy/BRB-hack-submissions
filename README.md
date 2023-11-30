@@ -13,12 +13,10 @@ Make a PR to the Master branch with the following:
 
 ## Submissions
 
-Example:
+### biconomy-schnorr-module
+- This is the Biconomy module that employs Schnorr signatures. Utilizing this module enables multi-signature capabilities. Additionally, there is a demo application available, allowing for an easy trial of this module.
+- code repo: https://github.com/0xrhsmt/biconomy-schnorr-module
+- live demo: https://biconomy-schnorr-module.vercel.app
 
-### Title of Project
-- Two line brief of your project
-- Link to any github repositories
-- Link to working demo (if not deployed link to video)
-- Members of team you worked with
 
   
